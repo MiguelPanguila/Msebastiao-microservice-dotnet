@@ -1,0 +1,6 @@
+@GeekShopping.ProdutAPI_HostAddress = http://localhost:5269
+
+GET {{GeekShopping.ProdutAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
